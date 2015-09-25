@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WhatToDo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_text">What-To-Do</string>
+    <string name="info_text_under_title">Enter your to-do\'s for the day in this list! Hold on a list item to delete it!</string>
+    <string name="enter_a_new_task">enter a new task</string>
+    <string name="add_text">Add</string>
+</resources>
